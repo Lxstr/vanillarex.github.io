@@ -1,4 +1,4 @@
-## Rex's Landing Page
+## Hello
 
 You can use the buttons below to connect with me.
 
